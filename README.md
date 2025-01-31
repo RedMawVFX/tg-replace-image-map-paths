@@ -1,5 +1,9 @@
 # tg-replace-image-map-paths
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-replace-image-map-paths) to go directly to the <i>tg-replace-image-map-paths</i> folder in the redmaw-tg-toolkit.
+<hr>
 Back up your Terragen project file before running this script.  <br /> This works on Image Map Shaders only. <br />  File paths that match the search criteria are replaced with the specified new path.
 
 ## Requirements
